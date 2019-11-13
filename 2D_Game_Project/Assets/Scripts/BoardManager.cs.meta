@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f1071e5c12c3a904db367a6cf72d0bd1
+timeCreated: 1470045808
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - mazeGenerator: {instanceID: 0}
+  - generatedMaze: {instanceID: 0}
+  - exit: {fileID: 106666, guid: 1750f61bd5063374996c5f672163f90b, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
